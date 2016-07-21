@@ -1,0 +1,39 @@
+body { 
+    background:#99ffdd;
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+	font-size:54px;
+}
+
+img { 
+	display: block;
+	height:400px; 
+	width:505px;
+}
+
+
+#title {
+    background:#e6ccff;
+    width:400px;
+    
+}
+
+#main {
+	background: pink;
+	width:600px;
+}
+
+#main p {
+	color: orange ;
+}
+
+* {
+	border: purple ;
+}
+
+
+
+
+
